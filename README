@@ -1,0 +1,17 @@
+Acktie Mobile NFC Module Example (for Android)
+
+The example shows various ways to use the NFC  module.  The code is intented to get you started in using the module but may need to be refactored for your app.
+
+For the test and development of our module we used NFC tags from tagstand* (http://www.tagstand.com/).  We put them through a lot of abuse and they have worked great.
+
+NOTE: Under the example dir is an example of the tiapp.xml that includes the AndroidManifest.xml entries.  They are needed to use the module in your application. 
+
+Feel free to offer suggestions.
+
+Thanks,
+
+Tony
+@Acktie
+www.acktie.com
+
+* Acktie have not affiliation to tagstand or its products.
